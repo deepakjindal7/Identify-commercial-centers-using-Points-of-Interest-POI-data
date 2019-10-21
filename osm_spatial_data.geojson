@@ -1,0 +1,6250 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-10-19T18:09:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/611105438",
+        "addr:street": "Main Bazaar",
+        "amenity": "pub",
+        "name": "MyBar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2107627,
+          28.6405551
+        ]
+      },
+      "id": "node/611105438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/786590787",
+        "amenity": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2181565,
+          28.6315203
+        ]
+      },
+      "id": "node/786590787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/928550280",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Hotel Metropolis",
+        "outdoor_seating": "yes",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2105994,
+          28.6407045
+        ]
+      },
+      "id": "node/928550280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/928558280",
+        "amenity": "cinema",
+        "name": "PVR Plaza Cinema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2196937,
+          28.6350924
+        ]
+      },
+      "id": "node/928558280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/928558283",
+        "name": "New Prominent Tailor",
+        "shop": "tailor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2201443,
+          28.6351018
+        ]
+      },
+      "id": "node/928558283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/928563257",
+        "amenity": "atm",
+        "name": "Citibank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2201014,
+          28.6347064
+        ]
+      },
+      "id": "node/928563257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/928563678",
+        "amenity": "atm",
+        "name": "HDFC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2175372,
+          28.6344827
+        ]
+      },
+      "id": "node/928563678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/928567979",
+        "amenity": "restaurant",
+        "disused": "yes",
+        "name": "Piccadelhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2196937,
+          28.635243
+        ]
+      },
+      "id": "node/928567979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/938372588",
+        "amenity": "bus_station",
+        "name": "New Delhi Station (Paharganj)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2187312,
+          28.6412362
+        ]
+      },
+      "id": "node/938372588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/938409723",
+        "amenity": "bus_station",
+        "name": "Minto Road Bus Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2238694,
+          28.6394116
+        ]
+      },
+      "id": "node/938409723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/943560039",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2061926,
+          28.6263032
+        ]
+      },
+      "id": "node/943560039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/974361599",
+        "amenity": "cinema",
+        "name": "Imperial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2108258,
+          28.6411555
+        ]
+      },
+      "id": "node/974361599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1241932078",
+        "amenity": "restaurant",
+        "cmt": "06-JAN-10 13:50:21",
+        "description": "06-JAN-10 13:50:21",
+        "ele": "235.406738",
+        "name": "Bangla Foods",
+        "source": "GPS",
+        "sym": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2084285,
+          28.6334431
+        ]
+      },
+      "id": "node/1241932078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1421697605",
+        "addr:housename": "Mehrasons Jewellers",
+        "addr:housenumber": "68",
+        "addr:street": "Janpath",
+        "name": "Mehrasons Jewellers",
+        "shop": "jewelry",
+        "website": "www.mehrasonsjewellers.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2198524,
+          28.6276711
+        ]
+      },
+      "id": "node/1421697605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1534482780",
+        "shop": "art"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2059889,
+          28.6346445
+        ]
+      },
+      "id": "node/1534482780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1556466158",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "name": "Spice Route"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2181175,
+          28.6253844
+        ]
+      },
+      "id": "node/1556466158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762961283",
+        "addr:street": "palika bazar road",
+        "name": "Palika Bazar",
+        "name:hi": "पालिका बाजार",
+        "shop": "shopping_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2191186,
+          28.6313918
+        ]
+      },
+      "id": "node/1762961283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1940318525",
+        "amenity": "restaurant",
+        "name": "Club India Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2137181,
+          28.6409278
+        ]
+      },
+      "id": "node/1940318525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1940318549",
+        "amenity": "restaurant",
+        "name": "New Mt. Everest Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2137916,
+          28.6410117
+        ]
+      },
+      "id": "node/1940318549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1940318561",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2133239,
+          28.641578
+        ]
+      },
+      "id": "node/1940318561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2209543836",
+        "amenity": "bar",
+        "name": "mohini bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2238762,
+          28.6332767
+        ]
+      },
+      "id": "node/2209543836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2323525287",
+        "amenity": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2169307,
+          28.6277103
+        ]
+      },
+      "id": "node/2323525287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2327524028",
+        "amenity": "restaurant",
+        "cuisine": "asian;chinese;thai",
+        "name": "Berco's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2172154,
+          28.6323764
+        ]
+      },
+      "id": "node/2327524028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2327524042",
+        "name": "Tantra T-shirts",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2191809,
+          28.627656
+        ]
+      },
+      "id": "node/2327524042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2327524046",
+        "amenity": "atm",
+        "operator": "YES Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2195527,
+          28.6272942
+        ]
+      },
+      "id": "node/2327524046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2327524049",
+        "amenity": "atm",
+        "operator": "Central bank of India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2195823,
+          28.6278063
+        ]
+      },
+      "id": "node/2327524049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2327524052",
+        "amenity": "atm",
+        "operator": "ICICI Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2196177,
+          28.6282898
+        ]
+      },
+      "id": "node/2327524052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2327524066",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2207958,
+          28.6323321
+        ]
+      },
+      "id": "node/2327524066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2327524069",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2205603,
+          28.6335073
+        ]
+      },
+      "id": "node/2327524069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2410180163",
+        "name": "Delhi Emporium",
+        "shop": "department_store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2153721,
+          28.6312577
+        ]
+      },
+      "id": "node/2410180163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2410180164",
+        "amenity": "atm",
+        "operator": "State Bank of India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2197715,
+          28.6261056
+        ]
+      },
+      "id": "node/2410180164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2410180165",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "amenity": "atm",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2195254,
+          28.6347165
+        ]
+      },
+      "id": "node/2410180165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2569698442",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2106033,
+          28.641178
+        ]
+      },
+      "id": "node/2569698442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2592537219",
+        "name": "Beer& Wine Shop",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2213164,
+          28.6309471
+        ]
+      },
+      "id": "node/2592537219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2592537223",
+        "name": "Hira Sweets",
+        "shop": "confectionery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.220063,
+          28.6353527
+        ]
+      },
+      "id": "node/2592537223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2592537225",
+        "amenity": "restaurant",
+        "name": "Sayam Roof Top Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2137445,
+          28.6411417
+        ]
+      },
+      "id": "node/2592537225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2592537522",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2185643,
+          28.6408956
+        ]
+      },
+      "id": "node/2592537522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2654011278",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "A 23",
+        "addr:postcode": "110001",
+        "addr:street": "Connaught Circus (Indira Chowk), Connaught Place",
+        "amenity": "fuel",
+        "name": "Indian Oil Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2178321,
+          28.6337158
+        ]
+      },
+      "id": "node/2654011278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2657888901",
+        "amenity": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2231206,
+          28.6449997
+        ]
+      },
+      "id": "node/2657888901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709534496",
+        "addr:city": "New Delhi",
+        "addr:postcode": "110001",
+        "addr:street": "Radial Road 6",
+        "amenity": "restaurant",
+        "capacity": "50",
+        "name": "Keshav Restaurant",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "phone": "+91-90154-84272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2230833,
+          28.6337495
+        ]
+      },
+      "id": "node/2709534496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2967264861",
+        "amenity": "community_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2137619,
+          28.6388803
+        ]
+      },
+      "id": "node/2967264861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3185191993",
+        "amenity": "atm",
+        "name": "Yes Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2152163,
+          28.6413641
+        ]
+      },
+      "id": "node/3185191993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3242109311",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "The exotic rooftop restaurant",
+        "opening_hours": "Mo-Su 08:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2137407,
+          28.640973
+        ]
+      },
+      "id": "node/3242109311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3250376814",
+        "amenity": "restaurant",
+        "cuisine": "korean",
+        "name": "쉼터",
+        "name:en": "Shimtur",
+        "name:fr": "Shimtur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2132453,
+          28.6414451
+        ]
+      },
+      "id": "node/3250376814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3269421783",
+        "amenity": "atm",
+        "name": "Citibank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2147522,
+          28.6412802
+        ]
+      },
+      "id": "node/3269421783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3269429079",
+        "addr:housenumber": "4986",
+        "addr:street": "Ramdwara Road",
+        "amenity": "restaurant",
+        "cuisine": "vegetarian",
+        "name": "Tadka",
+        "name:es": "Tadka",
+        "opening_hours": "Mo-Su 09:00-22:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2131013,
+          28.6403009
+        ]
+      },
+      "id": "node/3269429079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3269454412",
+        "amenity": "bar",
+        "name": "The Gem Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2160786,
+          28.6415015
+        ]
+      },
+      "id": "node/3269454412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3704734413",
+        "amenity": "restaurant",
+        "name": "Nando's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2197896,
+          28.6310191
+        ]
+      },
+      "id": "node/3704734413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3949841958",
+        "addr:city": "noida",
+        "addr:housename": "b-2",
+        "addr:housenumber": "24",
+        "addr:postcode": "201301",
+        "addr:street": "24",
+        "name": "bitcomm bike",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2094748,
+          28.6381308
+        ]
+      },
+      "id": "node/3949841958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3991742063",
+        "amenity": "restaurant",
+        "name": "Connection Beer company",
+        "note": "nice view"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2204463,
+          28.6314049
+        ]
+      },
+      "id": "node/3991742063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3991743108",
+        "name": "photocopies and color prints",
+        "shop": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2226886,
+          28.6339963
+        ]
+      },
+      "id": "node/3991743108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3991743214",
+        "name": "phoyocopies and color prints",
+        "shop": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2228322,
+          28.6338916
+        ]
+      },
+      "id": "node/3991743214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4069814471",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "brand": "Levi's",
+        "brand:wikidata": "Q127962",
+        "brand:wikipedia": "en:Levi Strauss & Co.",
+        "clothes": "denim;men;women",
+        "level": "0",
+        "name": "Levi's",
+        "shop": "clothes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2187524,
+          28.6341238
+        ]
+      },
+      "id": "node/4069814471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4069815728",
+        "addr:housename": "B",
+        "addr:housenumber": "B-23",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "addr:street": "Inner Circle",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "The Colonnade",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2190699,
+          28.6342635
+        ]
+      },
+      "id": "node/4069815728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4069858894",
+        "amenity": "restaurant",
+        "name": "Gola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2201059,
+          28.635221
+        ]
+      },
+      "id": "node/4069858894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4069860437",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "level": "0",
+        "name": "Bata",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2186101,
+          28.6339923
+        ]
+      },
+      "id": "node/4069860437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4122535796",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2166292,
+          28.6316863
+        ]
+      },
+      "id": "node/4122535796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4122549692",
+        "amenity": "atm",
+        "brand": "Kotak Mahindra Bank",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2164451,
+          28.6311221
+        ]
+      },
+      "id": "node/4122549692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4122564391",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.212874,
+          28.6294413
+        ]
+      },
+      "id": "node/4122564391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4122564393",
+        "name": "Bangla sweets",
+        "shop": "confectionery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2085663,
+          28.6336968
+        ]
+      },
+      "id": "node/4122564393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4122590190",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2101806,
+          28.6289471
+        ]
+      },
+      "id": "node/4122590190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4122592291",
+        "amenity": "restaurant",
+        "name": "Odeon sweets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2080471,
+          28.6334275
+        ]
+      },
+      "id": "node/4122592291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4211994391",
+        "amenity": "restaurant",
+        "name": "Malhotra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2105515,
+          28.6410445
+        ]
+      },
+      "id": "node/4211994391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4219631339",
+        "name": "People Tree",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2174792,
+          28.6301669
+        ]
+      },
+      "id": "node/4219631339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4219631340",
+        "amenity": "restaurant",
+        "name": "Sam's Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2126795,
+          28.6410765
+        ]
+      },
+      "id": "node/4219631340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4262378089",
+        "amenity": "bar",
+        "name": "My Love "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2104056,
+          28.6384132
+        ]
+      },
+      "id": "node/4262378089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4328146350",
+        "name": "Everest Communications",
+        "note": "mobile phones repair service - Samsung, Nokia ua",
+        "phone": "+91911180965;+918285093982;+919015847464",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2108385,
+          28.6407931
+        ]
+      },
+      "id": "node/4328146350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4338105559",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "D-26/28",
+        "addr:postcode": "110001",
+        "addr:street": "D Block, Radial Road No.6",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Zaffran",
+        "name:ca": "ZAFRAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2212499,
+          28.6335971
+        ]
+      },
+      "id": "node/4338105559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4338129371",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "N-96",
+        "addr:postcode": "110001",
+        "addr:street": "2nd Floor, Munshi Lal Building, Connaught Place",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "diet:vegetarian": "yes",
+        "name": "Barbeque Nation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2206535,
+          28.6303156
+        ]
+      },
+      "id": "node/4338129371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4341101093",
+        "amenity": "restaurant",
+        "name": "Nepali Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2144269,
+          28.6411171
+        ]
+      },
+      "id": "node/4341101093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4343776289",
+        "name": "Jain Book Depot",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2200849,
+          28.6345271
+        ]
+      },
+      "id": "node/4343776289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4350455497",
+        "amenity": "bar",
+        "name": "Sam's bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2126817,
+          28.6410343
+        ]
+      },
+      "id": "node/4350455497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4350522692",
+        "amenity": "restaurant",
+        "name": "Malhotra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2103053,
+          28.6408661
+        ]
+      },
+      "id": "node/4350522692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4351002694",
+        "amenity": "atm",
+        "operator": "Yes Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2147985,
+          28.6444721
+        ]
+      },
+      "id": "node/4351002694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4389398989",
+        "addr:housenumber": "13",
+        "addr:street": "Sansad Marg",
+        "amenity": "restaurant",
+        "cuisine": "punjabi",
+        "name": "Pind Balluchi",
+        "name:es": "Pind Baluchi",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "website": "http://www.pindballuchi.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.217545,
+          28.6303463
+        ]
+      },
+      "id": "node/4389398989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4391597491",
+        "addr:postcode": "110001",
+        "addr:street": "F-30 B, Ground floor, Malhotra building, Opp Palika Bazar gate no-6, Inner circle",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name:es": "punjabi by nature quickie",
+        "website": "https://punjabibynature.in/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2197505,
+          28.6313321
+        ]
+      },
+      "id": "node/4391597491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4391613189",
+        "addr:housename": "Atmaram Mansion, Scindia House",
+        "addr:place": "Connaught Place",
+        "addr:unit": "Shop 9A",
+        "amenity": "restaurant",
+        "name:es": "Rajdhani",
+        "website": "http://www.rajdhani.co.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2203117,
+          28.6297728
+        ]
+      },
+      "id": "node/4391613189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4401493065",
+        "amenity": "restaurant",
+        "name": "Neelam Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2179887,
+          28.6420621
+        ]
+      },
+      "id": "node/4401493065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4430180391",
+        "amenity": "community_centre",
+        "name:ru": "ракеш"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2173289,
+          28.6349539
+        ]
+      },
+      "id": "node/4430180391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4443303491",
+        "addr:housename": "A",
+        "name": "United Colors Of Benetton",
+        "name:en": "United Colors Of Benetton",
+        "name:hi": "यूनाइटेड कलर्स ऑफ बेनेटन",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2180195,
+          28.6323132
+        ]
+      },
+      "id": "node/4443303491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4445099389",
+        "fixme": "I did not see this in Block A, let alone at this position. This should be moved or deleted after a survey.",
+        "name": "Wrangler",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2183439,
+          28.6333286
+        ]
+      },
+      "id": "node/4445099389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4445111189",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "addr:unit": "27",
+        "level": "0",
+        "name": "Baluja's",
+        "operator": "Baluja Shoe Co.",
+        "shop": "clothes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2193608,
+          28.6343102
+        ]
+      },
+      "id": "node/4445111189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4445111190",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "brand": "H&M",
+        "brand:wikidata": "Q188326",
+        "brand:wikipedia": "en:H&M",
+        "level": "0",
+        "name": "H&M",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2187113,
+          28.6341056
+        ]
+      },
+      "id": "node/4445111190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4447444793",
+        "shop": "travel_agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2164903,
+          28.633364
+        ]
+      },
+      "id": "node/4447444793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4447524891",
+        "shop": "travel_agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2169738,
+          28.6297544
+        ]
+      },
+      "id": "node/4447524891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4447641390",
+        "amenity": "bar",
+        "level": "1",
+        "name": "The Beer Cafe - Biggie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.220884,
+          28.6339927
+        ]
+      },
+      "id": "node/4447641390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4454415194",
+        "name": "Rail Reservation Centre",
+        "name:en": "Rail Reservation Centre",
+        "shop": "ticket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2188116,
+          28.6396565
+        ]
+      },
+      "id": "node/4454415194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460479126",
+        "name": "Sony Center",
+        "name:hi": "सोनी सेंटर",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2197015,
+          28.6307138
+        ]
+      },
+      "id": "node/4460479126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460479219",
+        "amenity": "restaurant",
+        "name": "Fa Yian The Chinese Restaurant",
+        "website": "http://www.fayian.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2172007,
+          28.6328293
+        ]
+      },
+      "id": "node/4460479219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4502154194",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2214923,
+          28.6293906
+        ]
+      },
+      "id": "node/4502154194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4507814689",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2095729,
+          28.6437322
+        ]
+      },
+      "id": "node/4507814689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4519099789",
+        "amenity": "community_centre",
+        "name": "PK Road Basant Lane",
+        "name:en": "PK Road Basant Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2151512,
+          28.6357899
+        ]
+      },
+      "id": "node/4519099789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4543453289",
+        "amenity": "cinema",
+        "name:en": "Regal Cinema",
+        "name:ru": "Регал синема"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2169833,
+          28.6306708
+        ]
+      },
+      "id": "node/4543453289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4565027989",
+        "amenity": "restaurant",
+        "name": "Wow Cafe",
+        "name:en": "Wow Cafe",
+        "name:ko": "와우카페 한식당"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2147624,
+          28.6412137
+        ]
+      },
+      "id": "node/4565027989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4599840390",
+        "amenity": "restaurant",
+        "name:ko": "인도방랑기"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2155347,
+          28.6415909
+        ]
+      },
+      "id": "node/4599840390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4656714717",
+        "amenity": "restaurant",
+        "name": "NATRAJ restaurant",
+        "name:en": "NATRAJ restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2103819,
+          28.6424044
+        ]
+      },
+      "id": "node/4656714717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4679883320",
+        "amenity": "bar",
+        "name": "Beer Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2210523,
+          28.6307208
+        ]
+      },
+      "id": "node/4679883320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4679888370",
+        "shop": "florist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2045509,
+          28.6302916
+        ]
+      },
+      "id": "node/4679888370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4685571294",
+        "amenity": "toilets",
+        "operator": "NDMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.218736,
+          28.6414639
+        ]
+      },
+      "id": "node/4685571294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4709852091",
+        "addr:housename": "A",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "addr:street": "Inner Circle",
+        "addr:unit": "22",
+        "name": "Wenger's",
+        "phone": "+91-11-2332-8589",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.21807,
+          28.6333804
+        ]
+      },
+      "id": "node/4709852091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4711004415",
+        "addr:housenumber": "124",
+        "addr:street": "Janpath Lane",
+        "name": "Blue Dart DHL",
+        "phone": "18602331234",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2174579,
+          28.6270888
+        ]
+      },
+      "id": "node/4711004415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4711252131",
+        "name": "Munni Lal Halwai ( Samos as)",
+        "name:en": "Munni Lal Halwai ( Samos as)",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2043433,
+          28.6349833
+        ]
+      },
+      "id": "node/4711252131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4711571792",
+        "amenity": "restaurant",
+        "name": "Embassy Restaurant ( Samosa)",
+        "name:en": "Embassy Restaurant ( Samosa)",
+        "phone": "01123416434"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2212566,
+          28.6335111
+        ]
+      },
+      "id": "node/4711571792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4713325589",
+        "amenity": "atm",
+        "opening_hours": "24/7",
+        "operator": "SBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2053756,
+          28.6246459
+        ]
+      },
+      "id": "node/4713325589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4715157790",
+        "amenity": "restaurant",
+        "name": "Malabar Hotel",
+        "name:en": "Malabar Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2182562,
+          28.6423302
+        ]
+      },
+      "id": "node/4715157790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4715157791",
+        "amenity": "restaurant",
+        "name": "Hotel Madras Dx",
+        "name:en": "Hotel Madras Dx",
+        "name:kn": "ಹೋಟೆಲ್ ಮಡ್ರಾಸ್ ಡೀಲಕ್ಸ್"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.218265,
+          28.642273
+        ]
+      },
+      "id": "node/4715157791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4715162190",
+        "amenity": "restaurant",
+        "name": "Hyderabadi Dum Biriyaani",
+        "name:en": "Hyderabadi Dum Biriyaani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2182489,
+          28.6424057
+        ]
+      },
+      "id": "node/4715162190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4715173889",
+        "amenity": "restaurant",
+        "name": "South Indian Foods",
+        "name:en": "South Indian Foods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2182429,
+          28.6424536
+        ]
+      },
+      "id": "node/4715173889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4716197061",
+        "name": "resto",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2126048,
+          28.6347993
+        ]
+      },
+      "id": "node/4716197061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4725833989",
+        "amenity": "bus_station",
+        "name": "Paharganj bus stand",
+        "name:en": "Paharganj bus stand (Himachal Tourist)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2044948,
+          28.644713
+        ]
+      },
+      "id": "node/4725833989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4772064342",
+        "amenity": "restaurant",
+        "name": "Safari Restro Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2077833,
+          28.6321017
+        ]
+      },
+      "id": "node/4772064342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4772753924",
+        "amenity": "restaurant",
+        "cuisine": "vegetarian;indian",
+        "name": "Rishi Vaishno Dhaba",
+        "name:en": "Rishi Vaishno Dhaba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.217099,
+          28.6405446
+        ]
+      },
+      "id": "node/4772753924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4773105444",
+        "amenity": "restaurant",
+        "name": "Sonu",
+        "name:hi": "Sonu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2127435,
+          28.6409944
+        ]
+      },
+      "id": "node/4773105444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4783668221",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Kwality",
+        "name:de": "Kwality",
+        "name:en": "Kwality",
+        "name:hi": "Kwality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2172701,
+          28.6299114
+        ]
+      },
+      "id": "node/4783668221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4857522521",
+        "amenity": "restaurant",
+        "name": "Everest kitchen",
+        "name:en": "Everest kitchen",
+        "name:fr": "Everest kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2135184,
+          28.641127
+        ]
+      },
+      "id": "node/4857522521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4869833821",
+        "addr:housenumber": "33",
+        "addr:postcode": "110001",
+        "addr:street": "Outer Circle",
+        "email": "smacktravel@gmail.com",
+        "name": "Smack Travel",
+        "name:en": "Smack Travel",
+        "opening_hours": "Mo-Su 07:00-19:00",
+        "phone": "9811581279",
+        "shop": "travel_agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2208376,
+          28.6354055
+        ]
+      },
+      "id": "node/4869833821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4897911422",
+        "amenity": "bar",
+        "name": "My Bar",
+        "name:en": "My Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2200077,
+          28.6305266
+        ]
+      },
+      "id": "node/4897911422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4907281021",
+        "amenity": "atm",
+        "operator": "Union Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2193166,
+          28.6425769
+        ]
+      },
+      "id": "node/4907281021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4907281121",
+        "amenity": "atm",
+        "brand": "Bank of Baroda",
+        "operator": "Bank of Baroda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2193198,
+          28.6425338
+        ]
+      },
+      "id": "node/4907281121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4907659722",
+        "amenity": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2082507,
+          28.627962
+        ]
+      },
+      "id": "node/4907659722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4908782321",
+        "amenity": "restaurant",
+        "name": "Kathmandu Food Cafe",
+        "name:en": "Kathmandu Food Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2126308,
+          28.6415665
+        ]
+      },
+      "id": "node/4908782321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4936989322",
+        "level": "1",
+        "name": "Oxford Bookstore",
+        "name:en": "Oxford Bookstore",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2218852,
+          28.6310412
+        ]
+      },
+      "id": "node/4936989322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4959734021",
+        "amenity": "restaurant",
+        "name": "Nirula's",
+        "name:en": "Nirula's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2206088,
+          28.6353146
+        ]
+      },
+      "id": "node/4959734021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4959734022",
+        "amenity": "restaurant",
+        "name": "Kovil",
+        "name:en": "Kovil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2212936,
+          28.6333695
+        ]
+      },
+      "id": "node/4959734022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4959734121",
+        "addr:street": "Janpath",
+        "amenity": "restaurant",
+        "name": "Saravana Bhavan",
+        "name:en": "Saravana Bhavan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2196874,
+          28.6270709
+        ]
+      },
+      "id": "node/4959734121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4959734221",
+        "amenity": "restaurant",
+        "name": "Farzi Cafe",
+        "name:en": "Farzi Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2214473,
+          28.6325028
+        ]
+      },
+      "id": "node/4959734221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4959768821",
+        "amenity": "restaurant",
+        "cuisine": "indian;vegetarian",
+        "name": "Radjhani Thali",
+        "name:en": "Radjhani Thali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2204075,
+          28.630182
+        ]
+      },
+      "id": "node/4959768821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4983371294",
+        "description": "The only official tourist ticket vending place. Located on the first floor. Very slow.",
+        "information": "office",
+        "level": "1",
+        "name": "International Tourist Bureau",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "shop": "ticket",
+        "tourism": "information",
+        "vending": "public_transport_tickets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2192923,
+          28.643335
+        ]
+      },
+      "id": "node/4983371294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4985058921",
+        "amenity": "restaurant",
+        "name": "Thalee",
+        "name:en": "Thalee",
+        "name:fr": "Thalee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2108048,
+          28.6409867
+        ]
+      },
+      "id": "node/4985058921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5005710330",
+        "amenity": "bar",
+        "name": "Tafree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.220584,
+          28.6314083
+        ]
+      },
+      "id": "node/5005710330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5017491421",
+        "amenity": "restaurant",
+        "brand": "Pizza Hut",
+        "brand:wikidata": "Q191615",
+        "brand:wikipedia": "en:Pizza Hut",
+        "cuisine": "pizza",
+        "name": "Pizza Hut",
+        "name:en": "Pizza Hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2198565,
+          28.6278217
+        ]
+      },
+      "id": "node/5017491421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5017912424",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Mughlai Junction",
+        "name:en": "Mughlai Junction",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "website": "http://mughlaihunction.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2204304,
+          28.6312559
+        ]
+      },
+      "id": "node/5017912424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5017924724",
+        "addr:street": "Radial Road 6",
+        "amenity": "restaurant",
+        "cuisine": "indian;chaat",
+        "indoor_seating": "yes",
+        "name": "Haldiram's",
+        "outdoor_seating": "no",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2222423,
+          28.63412
+        ]
+      },
+      "id": "node/5017924724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5068211988",
+        "barrier": "lift_gate",
+        "bicycle": "no",
+        "foot": "yes",
+        "horse": "no",
+        "motor_vehicle": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2242198,
+          28.6306118
+        ]
+      },
+      "id": "node/5068211988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5068225753",
+        "amenity": "bar",
+        "name": "Tamasha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2219647,
+          28.6295838
+        ]
+      },
+      "id": "node/5068225753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5068273331",
+        "amenity": "toilets",
+        "toilets:disposal": "pitlatrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.225211,
+          28.6339472
+        ]
+      },
+      "id": "node/5068273331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5068273788",
+        "amenity": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2269459,
+          28.6331254
+        ]
+      },
+      "id": "node/5068273788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5068273978",
+        "amenity": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2270346,
+          28.6332852
+        ]
+      },
+      "id": "node/5068273978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5073788621",
+        "amenity": "restaurant",
+        "name": "saravan bhavan",
+        "name:en": "saravan bhavan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2194157,
+          28.6249108
+        ]
+      },
+      "id": "node/5073788621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5073788821",
+        "amenity": "restaurant",
+        "cuisine": "south_indian",
+        "indoor_seating": "yes",
+        "name": "Sarvana Bhavan",
+        "name:en": "Sarvana Bhavan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2163026,
+          28.6321991
+        ]
+      },
+      "id": "node/5073788821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109849421",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "amenity": "restaurant",
+        "level": "1",
+        "name": "The Immigrant Cafe",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2187952,
+          28.6341417
+        ]
+      },
+      "id": "node/5109849421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5193360429",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2215295,
+          28.6318859
+        ]
+      },
+      "id": "node/5193360429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5193360430",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "brand:wikipedia": "en:Bharat Petroleum",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2218293,
+          28.6314141
+        ]
+      },
+      "id": "node/5193360430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5248543927",
+        "name": "Bhumi spices shop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.213101,
+          28.64038
+        ]
+      },
+      "id": "node/5248543927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5253912722",
+        "name": "novel exp",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2095887,
+          28.6392425
+        ]
+      },
+      "id": "node/5253912722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5255885021",
+        "name": "hare krishna handloom",
+        "shop": "gift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2119082,
+          28.6408128
+        ]
+      },
+      "id": "node/5255885021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5257124922",
+        "name": "Maya Bazar",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2108417,
+          28.6380841
+        ]
+      },
+      "id": "node/5257124922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5263184321",
+        "name": "Gole Market",
+        "shop": "confectionery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2055869,
+          28.6337077
+        ]
+      },
+      "id": "node/5263184321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5277323203",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2214431,
+          28.6314709
+        ]
+      },
+      "id": "node/5277323203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5323174525",
+        "amenity": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.213014,
+          28.6408832
+        ]
+      },
+      "id": "node/5323174525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5329504729",
+        "amenity": "restaurant",
+        "name": "Sagar Ratna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2203635,
+          28.6353446
+        ]
+      },
+      "id": "node/5329504729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5338583878",
+        "amenity": "atm",
+        "brand": "State Bank",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2029725,
+          28.6248302
+        ]
+      },
+      "id": "node/5338583878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5338584664",
+        "amenity": "atm",
+        "brand": "Bank of Baroda",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2010875,
+          28.6249115
+        ]
+      },
+      "id": "node/5338584664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5338584665",
+        "amenity": "theatre",
+        "name": "Akshara",
+        "name:hi": "अक्षर"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2032745,
+          28.6259776
+        ]
+      },
+      "id": "node/5338584665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5338584666",
+        "name": "Safal",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2052393,
+          28.6261838
+        ]
+      },
+      "id": "node/5338584666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5338584904",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2026177,
+          28.6253009
+        ]
+      },
+      "id": "node/5338584904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5338584907",
+        "name": "Mother Dairy",
+        "shop": "dairy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2052244,
+          28.6261805
+        ]
+      },
+      "id": "node/5338584907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5338753224",
+        "amenity": "restaurant",
+        "name": "Chew"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2226463,
+          28.6321519
+        ]
+      },
+      "id": "node/5338753224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5345530305",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2188215,
+          28.624526
+        ]
+      },
+      "id": "node/5345530305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5345531689",
+        "amenity": "toilets",
+        "fee": "no",
+        "opening_hours": "Mo-Su 06:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2193623,
+          28.6248255
+        ]
+      },
+      "id": "node/5345531689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5345531969",
+        "amenity": "fuel",
+        "brand": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2199591,
+          28.6264672
+        ]
+      },
+      "id": "node/5345531969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5346173472",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2063926,
+          28.6258252
+        ]
+      },
+      "id": "node/5346173472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5346174279",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2063586,
+          28.6259996
+        ]
+      },
+      "id": "node/5346174279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5368454822",
+        "amenity": "atm",
+        "operator": "Allahabad Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2167477,
+          28.6294312
+        ]
+      },
+      "id": "node/5368454822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5368454824",
+        "amenity": "atm",
+        "operator": "Bank of Baroda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2173598,
+          28.62898
+        ]
+      },
+      "id": "node/5368454824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5368462821",
+        "amenity": "toilets",
+        "operator": "NDMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2173076,
+          28.6293888
+        ]
+      },
+      "id": "node/5368462821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5368544822",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2080312,
+          28.6325492
+        ]
+      },
+      "id": "node/5368544822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5432868322",
+        "name:ru": "Специи",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2131143,
+          28.6400727
+        ]
+      },
+      "id": "node/5432868322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5488627982",
+        "amenity": "restaurant",
+        "name": "Krishna  Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2135742,
+          28.6409369
+        ]
+      },
+      "id": "node/5488627982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5498404975",
+        "amenity": "toilets",
+        "fee": "no",
+        "operator": "New Delhi Municipal Corporation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2216328,
+          28.6339704
+        ]
+      },
+      "id": "node/5498404975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5498958698",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2227897,
+          28.6341887
+        ]
+      },
+      "id": "node/5498958698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5517324826",
+        "amenity": "nightclub",
+        "name": "Kitty Su"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2271001,
+          28.6313526
+        ]
+      },
+      "id": "node/5517324826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5521617170",
+        "name": "Soch",
+        "name:hi": "सोच",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2168971,
+          28.6309492
+        ]
+      },
+      "id": "node/5521617170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5521617221",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2189578,
+          28.6298759
+        ]
+      },
+      "id": "node/5521617221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5545574397",
+        "addr:housename": "A",
+        "name": "Van Heusen",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2178939,
+          28.6327775
+        ]
+      },
+      "id": "node/5545574397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5545574399",
+        "name": "Cantabil",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2206618,
+          28.6314687
+        ]
+      },
+      "id": "node/5545574399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5545575719",
+        "name": "Woodland",
+        "shop": "shoes;clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2203072,
+          28.6312993
+        ]
+      },
+      "id": "node/5545575719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5545575720",
+        "name": "Khadi India",
+        "opening_hours": "Mo-Su 11:00-19:30; PH closed",
+        "shop": "department_store",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2167474,
+          28.6310982
+        ]
+      },
+      "id": "node/5545575720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5545576288",
+        "addr:housename": "A",
+        "name": "Louis Philippe",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2180099,
+          28.6332362
+        ]
+      },
+      "id": "node/5545576288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5545576289",
+        "name": "Pandit Brothers",
+        "shop": "bag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2208131,
+          28.6316004
+        ]
+      },
+      "id": "node/5545576289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5545576298",
+        "addr:housename": "A",
+        "name": "Fabindia",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2176401,
+          28.632172
+        ]
+      },
+      "id": "node/5545576298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5545576299",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "level": "0",
+        "name": "Zodiac",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.218518,
+          28.6339326
+        ]
+      },
+      "id": "node/5545576299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5577533598",
+        "addr:housename": "A",
+        "amenity": "atm",
+        "brand": "ICICI Bank",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2179816,
+          28.6325327
+        ]
+      },
+      "id": "node/5577533598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5577534201",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2175099,
+          28.6320671
+        ]
+      },
+      "id": "node/5577534201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5577534326",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2175781,
+          28.6336905
+        ]
+      },
+      "id": "node/5577534326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5578463454",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2179356,
+          28.6341481
+        ]
+      },
+      "id": "node/5578463454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5601790638",
+        "amenity": "restaurant",
+        "name": "FastFood",
+        "name:en": "Burger King",
+        "name:fr": "Burger King",
+        "name:hi": "Burger King"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2226296,
+          28.6429706
+        ]
+      },
+      "id": "node/5601790638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5627035624",
+        "amenity": "bar",
+        "name": "the luggage bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2226945,
+          28.6330681
+        ]
+      },
+      "id": "node/5627035624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5634101322",
+        "addr:street": "Panchkuian Road",
+        "name": "Government Shopping Centre Indian market",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "shop": "gift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2111028,
+          28.6386596
+        ]
+      },
+      "id": "node/5634101322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5634524438",
+        "amenity": "restaurant",
+        "cuisine": "punjabi",
+        "name": "Pind Balluchi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.219755,
+          28.6291804
+        ]
+      },
+      "id": "node/5634524438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5634524448",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2020403,
+          28.6363899
+        ]
+      },
+      "id": "node/5634524448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5637100896",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2258674,
+          28.6415227
+        ]
+      },
+      "id": "node/5637100896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5637101392",
+        "amenity": "toilets",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2238016,
+          28.6435985
+        ]
+      },
+      "id": "node/5637101392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5638613753",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1987994,
+          28.6444395
+        ]
+      },
+      "id": "node/5638613753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5638613754",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1989094,
+          28.6450079
+        ]
+      },
+      "id": "node/5638613754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5647754300",
+        "level": "1",
+        "name": "Chaayos",
+        "shop": "tea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2222789,
+          28.6315876
+        ]
+      },
+      "id": "node/5647754300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5647754302",
+        "addr:housenumber": "M-6",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "name": "Beecham's Press Private Limited",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2221888,
+          28.6316939
+        ]
+      },
+      "id": "node/5647754302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5647754778",
+        "amenity": "atm",
+        "brand": "Oriental Bank of Commerce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2220318,
+          28.6317679
+        ]
+      },
+      "id": "node/5647754778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5647754779",
+        "addr:housenumber": "M-4",
+        "addr:place": "Connaught Place",
+        "name": "Textile Emporium",
+        "shop": "fabric"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2221209,
+          28.6317238
+        ]
+      },
+      "id": "node/5647754779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5647754783",
+        "clothes": "men;suits",
+        "name": "Raymond",
+        "shop": "clothes;fabric"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2222326,
+          28.6316761
+        ]
+      },
+      "id": "node/5647754783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5656393231",
+        "addr:housename": "A",
+        "clothes": "men;suits",
+        "name": "Blackberry's",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2179096,
+          28.6330221
+        ]
+      },
+      "id": "node/5656393231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5656397310",
+        "addr:housename": "A",
+        "amenity": "restaurant",
+        "name": "Rodeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2179864,
+          28.633169
+        ]
+      },
+      "id": "node/5656397310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5656398091",
+        "addr:housename": "A",
+        "addr:place": "Connaught Place",
+        "addr:unit": "11",
+        "name": "Sillviato",
+        "phone": "+91-11-2332-7587",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.217919,
+          28.6330698
+        ]
+      },
+      "id": "node/5656398091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5656398092",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2202309,
+          28.6324332
+        ]
+      },
+      "id": "node/5656398092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5656398093",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2222043,
+          28.6307285
+        ]
+      },
+      "id": "node/5656398093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5656398298",
+        "addr:housename": "A",
+        "clothes": "women",
+        "name": "Shasha",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2178944,
+          28.6328187
+        ]
+      },
+      "id": "node/5656398298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5656398299",
+        "addr:housename": "A",
+        "name": "Hidesign",
+        "shop": "bag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2178957,
+          28.6328693
+        ]
+      },
+      "id": "node/5656398299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5656399714",
+        "addr:housename": "A",
+        "clothes": "men;suits",
+        "name": "Raymond",
+        "shop": "fabric;clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2180419,
+          28.6333153
+        ]
+      },
+      "id": "node/5656399714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5656399715",
+        "addr:housename": "A",
+        "name": "Nirmal Vijay and Company Jewellers",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2181043,
+          28.63345
+        ]
+      },
+      "id": "node/5656399715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5736742927",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2162929,
+          28.6332462
+        ]
+      },
+      "id": "node/5736742927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5758573267",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.21772,
+          28.6346701
+        ]
+      },
+      "id": "node/5758573267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5758573712",
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2231474,
+          28.633173
+        ]
+      },
+      "id": "node/5758573712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5771449329",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2183234,
+          28.643629
+        ]
+      },
+      "id": "node/5771449329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5771449330",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2182842,
+          28.6435882
+        ]
+      },
+      "id": "node/5771449330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5771449332",
+        "amenity": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.21846,
+          28.6359808
+        ]
+      },
+      "id": "node/5771449332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5771449333",
+        "amenity": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2182673,
+          28.6360561
+        ]
+      },
+      "id": "node/5771449333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5784309283",
+        "addr:housename": "Marina Arcade",
+        "addr:postcode": "110001",
+        "addr:unit": "G-18A",
+        "name": "People's Publishing House",
+        "opening_hours": "Mo-Su 10:00-18:30",
+        "phone": "+91-11-2332-4064",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.216878,
+          28.6332798
+        ]
+      },
+      "id": "node/5784309283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5784310847",
+        "amenity": "pharmacy",
+        "branch": "Connaught Place",
+        "name": "Apollo Pharmacy",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.217038,
+          28.6337914
+        ]
+      },
+      "id": "node/5784310847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5784310848",
+        "amenity": "restaurant",
+        "name": "China Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.217254,
+          28.6339281
+        ]
+      },
+      "id": "node/5784310848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5784310850",
+        "brand": "United Motors Motorcycles",
+        "brand:short": "UM Motorcycles",
+        "motorcycle:clothes": "yes",
+        "motorcycle:sales": "yes",
+        "shop": "motorcycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2170745,
+          28.6338539
+        ]
+      },
+      "id": "node/5784310850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5784310851",
+        "brand": "Samsung;Motorola",
+        "name": "Telepathy",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2166998,
+          28.633086
+        ]
+      },
+      "id": "node/5784310851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5784310852",
+        "addr:housename": "Marina Arcade",
+        "addr:postcode": "110001",
+        "addr:unit": "G-20/1",
+        "name": "SR Gaur Unisex Salon",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2166998,
+          28.6331181
+        ]
+      },
+      "id": "node/5784310852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5784312104",
+        "amenity": "restaurant",
+        "name": "My Govinda's",
+        "operator": "Shubhdharma Hospitality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2169847,
+          28.6337075
+        ]
+      },
+      "id": "node/5784312104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5784312105",
+        "name": "Rikhi Ram",
+        "shop": "musical_instrument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2170069,
+          28.6337485
+        ]
+      },
+      "id": "node/5784312105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5784312300",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2167227,
+          28.6339909
+        ]
+      },
+      "id": "node/5784312300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5784312301",
+        "addr:housename": "Marina Arcade",
+        "addr:postcode": "110001",
+        "addr:unit": "G-4",
+        "amenity": "pharmacy",
+        "name": "Medicine House",
+        "phone": "+91-95825-34440;+91-11-2332-1747;+91-11-6590-8784;+91-11-2332-1758"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2173285,
+          28.6338871
+        ]
+      },
+      "id": "node/5784312301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5784312302",
+        "amenity": "pharmacy",
+        "name": "Nath Brothers",
+        "opening_hours": "Mo-Sa 10:00-20:30",
+        "phone": "+91-98994-41605;+91-11-4151-6266;+91-11-2332-7284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2173585,
+          28.6338668
+        ]
+      },
+      "id": "node/5784312302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5784312304",
+        "name": "Army Equippers",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2167008,
+          28.6331522
+        ]
+      },
+      "id": "node/5784312304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5790138833",
+        "addr:unit": "G-1/18",
+        "name": "Imperial Leather Works",
+        "shop": "leather"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2168057,
+          28.6332406
+        ]
+      },
+      "id": "node/5790138833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5790140153",
+        "amenity": "atm",
+        "brand": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2173766,
+          28.6329277
+        ]
+      },
+      "id": "node/5790140153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5791905354",
+        "addr:housenumber": "23",
+        "addr:postcode": "110001",
+        "addr:street": "Panchkuian Road",
+        "email": "centralmall@gmail.com",
+        "name": "CCCI the mall Government Shopping Centre",
+        "opening_hours": "Mo-Su 09:00-18:30",
+        "operator": "ota",
+        "shop": "supermarket",
+        "website": "http://www.cccimall.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2112336,
+          28.6382372
+        ]
+      },
+      "id": "node/5791905354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5792049363",
+        "amenity": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2120737,
+          28.6294963
+        ]
+      },
+      "id": "node/5792049363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5792388053",
+        "amenity": "restaurant",
+        "name": "The Massala Trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2196393,
+          28.6271924
+        ]
+      },
+      "id": "node/5792388053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799043060",
+        "amenity": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2155817,
+          28.6319296
+        ]
+      },
+      "id": "node/5799043060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799043062",
+        "amenity": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.219801,
+          28.6307154
+        ]
+      },
+      "id": "node/5799043062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799050088",
+        "clothes": "turbans",
+        "name": "Dashmesh Pagrian",
+        "name:hi": "दशमेश पगड़ियाँ",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "phone": "+91-98180-23453",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2114437,
+          28.6268616
+        ]
+      },
+      "id": "node/5799050088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799050089",
+        "name": "Mother Dairy",
+        "opening_hours": "Mo-Su 05:30-13:00, 16:00-22:00",
+        "shop": "dairy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2108522,
+          28.627196
+        ]
+      },
+      "id": "node/5799050089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799050355",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2106868,
+          28.6270287
+        ]
+      },
+      "id": "node/5799050355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799050369",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2112352,
+          28.6256576
+        ]
+      },
+      "id": "node/5799050369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799050370",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2094151,
+          28.6254888
+        ]
+      },
+      "id": "node/5799050370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799060316",
+        "amenity": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2155817,
+          28.6319296
+        ]
+      },
+      "id": "node/5799060316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799060318",
+        "amenity": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.219801,
+          28.6307154
+        ]
+      },
+      "id": "node/5799060318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799061867",
+        "amenity": "theatre",
+        "level": "1",
+        "name": "The Attic",
+        "website": "www.theatticdelhi.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2173375,
+          28.6299956
+        ]
+      },
+      "id": "node/5799061867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799061868",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2176616,
+          28.6297521
+        ]
+      },
+      "id": "node/5799061868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799061870",
+        "clothes:men": "yes",
+        "name": "Reid & Taylor",
+        "shop": "fabric;clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2171503,
+          28.6297299
+        ]
+      },
+      "id": "node/5799061870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799061871",
+        "amenity": "atm",
+        "brand": "State Bank of India",
+        "brand:short": "SBI",
+        "opening_hours": "Mo-Su 06:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2171284,
+          28.6297028
+        ]
+      },
+      "id": "node/5799061871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799063060",
+        "addr:housename": "Regal Building",
+        "addr:postcode": "110001",
+        "addr:street": "Sansad Marg",
+        "addr:unit": "1-A",
+        "name": "Duli Chand's",
+        "phone": "+91-11-4150-3373;+91-98990-52473",
+        "shop": "bag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2171117,
+          28.6296751
+        ]
+      },
+      "id": "node/5799063060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799067870",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2072812,
+          28.6262764
+        ]
+      },
+      "id": "node/5799067870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799067888",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2063936,
+          28.6252499
+        ]
+      },
+      "id": "node/5799067888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799068154",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2071436,
+          28.6262338
+        ]
+      },
+      "id": "node/5799068154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5799068348",
+        "amenity": "atm",
+        "brand": "State Bank of India",
+        "brand:short": "SBI",
+        "layer": "-2",
+        "level": "-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2204351,
+          28.6331527
+        ]
+      },
+      "id": "node/5799068348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5810150756",
+        "name": "पालिका बाज़ार",
+        "name:en": "Paalika Bazaar",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2189313,
+          28.6307733
+        ]
+      },
+      "id": "node/5810150756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5810592534",
+        "amenity": "atm",
+        "brand": "Bank of Baroda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2183155,
+          28.6343883
+        ]
+      },
+      "id": "node/5810592534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5810594586",
+        "name": "New Book Land",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2192875,
+          28.6289192
+        ]
+      },
+      "id": "node/5810594586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5810594587",
+        "addr:housename": "Janpath Bhawan",
+        "addr:unit": "25",
+        "name": "Famous Book Store",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2185141,
+          28.6288687
+        ]
+      },
+      "id": "node/5810594587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5810595111",
+        "name": "New Delhi Stationery Mart",
+        "opening_hours": "Mo-Su 10:00-19:30",
+        "shop": "stationery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2200761,
+          28.6343601
+        ]
+      },
+      "id": "node/5810595111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5810928928",
+        "amenity": "atm",
+        "brand": "Punjab National Bank",
+        "brand:short": "PNB",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2048736,
+          28.641708
+        ]
+      },
+      "id": "node/5810928928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5841456285",
+        "amenity": "bar",
+        "name": "Ministry of Beer",
+        "short_name": "MOB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2226137,
+          28.6333172
+        ]
+      },
+      "id": "node/5841456285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5864629285",
+        "amenity": "restaurant",
+        "name": "sharavana bhavan",
+        "name:en": "sharavana bhavan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2176823,
+          28.632007
+        ]
+      },
+      "id": "node/5864629285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5914043701",
+        "addr:housename": "Scindia House",
+        "addr:postcode": "110001",
+        "addr:unit": "G-32",
+        "email": "info@veditours.com",
+        "name": "Vedi's International",
+        "phone": "+91-11-4151-4755;+91-11-4151-7749;+91-98110-99480",
+        "shop": "travel_agency",
+        "website": "http://veditours.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2201067,
+          28.6290924
+        ]
+      },
+      "id": "node/5914043701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5914043786",
+        "addr:housename": "Scindia House",
+        "addr:postcode": "110001",
+        "addr:unit": "G-34",
+        "email": "info@sagaworldtravels.in",
+        "name": "Saga World Travels",
+        "operator": "Mohan Singh Varma & Sons",
+        "shop": "travel_agency",
+        "website": "http://sagatravels.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2200995,
+          28.6290515
+        ]
+      },
+      "id": "node/5914043786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5914045004",
+        "shop": "travel_agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2204655,
+          28.6286398
+        ]
+      },
+      "id": "node/5914045004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5921856000",
+        "name": "Happy",
+        "name:he": "האפי המקורי!",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2125615,
+          28.6411257
+        ]
+      },
+      "id": "node/5921856000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6047921386",
+        "amenity": "restaurant",
+        "name": "Diamond restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2126034,
+          28.6410202
+        ]
+      },
+      "id": "node/6047921386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6053795914",
+        "amenity": "atm",
+        "brand": "Central Bank of India",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2010334,
+          28.6440795
+        ]
+      },
+      "id": "node/6053795914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6053796780",
+        "motorcycle:clothes": "helmet",
+        "motorcycle:repair": "no",
+        "motorcycle:sales": "no",
+        "shop": "motorcycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1994902,
+          28.6447078
+        ]
+      },
+      "id": "node/6053796780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6053797349",
+        "motorcycle:clothes": "helmets",
+        "motorcycle:repair": "no",
+        "motorcycle:sales": "no",
+        "shop": "motorcycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1994155,
+          28.6447457
+        ]
+      },
+      "id": "node/6053797349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6053797352",
+        "name": "24Seven",
+        "opening_hours": "24/7",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2009005,
+          28.6441549
+        ]
+      },
+      "id": "node/6053797352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6094909115",
+        "amenity": "restaurant",
+        "name": "Grand Singh restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.211572,
+          28.6407001
+        ]
+      },
+      "id": "node/6094909115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6107006754",
+        "shop": "alcohol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2242686,
+          28.6418903
+        ]
+      },
+      "id": "node/6107006754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6107006758",
+        "amenity": "toilets",
+        "fee": "no",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2144857,
+          28.6294985
+        ]
+      },
+      "id": "node/6107006758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6107007547",
+        "name": "Mother Dairy",
+        "shop": "dairy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.214612,
+          28.6293578
+        ]
+      },
+      "id": "node/6107007547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6134779778",
+        "amenity": "police",
+        "name": "Police Station New Delhi Railway Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2189266,
+          28.6437003
+        ]
+      },
+      "id": "node/6134779778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6148020512",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2222854,
+          28.635912
+        ]
+      },
+      "id": "node/6148020512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161686835",
+        "name": "Theobroma",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2215479,
+          28.6338612
+        ]
+      },
+      "id": "node/6161686835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161686836",
+        "amenity": "fuel",
+        "brand": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2213997,
+          28.6347708
+        ]
+      },
+      "id": "node/6161686836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161686837",
+        "name": "Bistro 57",
+        "opening_hours": "Mo-Su 12:30-23:00",
+        "shop": "beverages"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2212339,
+          28.6351241
+        ]
+      },
+      "id": "node/6161686837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161686838",
+        "amenity": "restaurant",
+        "name": "Mother India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2190315,
+          28.6353515
+        ]
+      },
+      "id": "node/6161686838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161686839",
+        "amenity": "atm",
+        "brand": "Yes Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2184123,
+          28.6352021
+        ]
+      },
+      "id": "node/6161686839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161687904",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "level": "0",
+        "male": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2160257,
+          28.6307822
+        ]
+      },
+      "id": "node/6161687904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161687905",
+        "brand": "Maruti Suzuki",
+        "name": "Competent Automobiles",
+        "shop": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2213236,
+          28.6313639
+        ]
+      },
+      "id": "node/6161687905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161689894",
+        "amenity": "atm",
+        "brand": "Punjab and Sind Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2196262,
+          28.6353937
+        ]
+      },
+      "id": "node/6161689894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161689895",
+        "amenity": "bar",
+        "name": "Excuse Me Boss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2209039,
+          28.6311254
+        ]
+      },
+      "id": "node/6161689895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161689896",
+        "addr:housenumber": "E15",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "United Coffee House",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2213883,
+          28.6322944
+        ]
+      },
+      "id": "node/6161689896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161690528",
+        "amenity": "atm",
+        "brand": "Canara Bank",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2186749,
+          28.6352636
+        ]
+      },
+      "id": "node/6161690528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161690529",
+        "amenity": "restaurant",
+        "name": "Véda",
+        "operator": "The Billiardiers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2181263,
+          28.6350577
+        ]
+      },
+      "id": "node/6161690529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161690587",
+        "indoor_seating": "yes",
+        "name": "Wagh Bakri Tea Lounge",
+        "outdoor_seating": "no",
+        "shop": "tea",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2220221,
+          28.6343528
+        ]
+      },
+      "id": "node/6161690587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161690588",
+        "amenity": "restaurant",
+        "name": "I ♥ Unplugged Courtyard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2214399,
+          28.6343272
+        ]
+      },
+      "id": "node/6161690588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161690590",
+        "amenity": "atm",
+        "brand": "IndusInd Bank",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.218477,
+          28.6352382
+        ]
+      },
+      "id": "node/6161690590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161690625",
+        "name": "Central News Agency",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2161949,
+          28.6326303
+        ]
+      },
+      "id": "node/6161690625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161690689",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "no",
+        "level": "0",
+        "male": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2158613,
+          28.6307126
+        ]
+      },
+      "id": "node/6161690689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161690690",
+        "amenity": "bar",
+        "name": "Kill The Bill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2207857,
+          28.6310486
+        ]
+      },
+      "id": "node/6161690690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161690691",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2207083,
+          28.6344
+        ]
+      },
+      "id": "node/6161690691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161690885",
+        "alcohol": "yes",
+        "amenity": "restaurant",
+        "level": "1",
+        "name": "Odeon Social"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2210708,
+          28.6342007
+        ]
+      },
+      "id": "node/6161690885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161987877",
+        "amenity": "bar",
+        "name": "The Beer Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2197367,
+          28.6301159
+        ]
+      },
+      "id": "node/6161987877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161987883",
+        "alcohol": "yes",
+        "amenity": "restaurant",
+        "drink:beer": "yes",
+        "drink:vodka": "yes",
+        "drink:wine": "yes",
+        "indoor_seating": "yes",
+        "name": "Local",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2210617,
+          28.6298758
+        ]
+      },
+      "id": "node/6161987883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6161987900",
+        "name": "DTTDC",
+        "name:en": "DTTDC",
+        "shop": "travel_agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2205729,
+          28.6348956
+        ]
+      },
+      "id": "node/6161987900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6187906788",
+        "name": "Kukdeep Tea Shop",
+        "shop": "beverages"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2108296,
+          28.6449451
+        ]
+      },
+      "id": "node/6187906788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6203987737",
+        "amenity": "atm",
+        "brand:short": "SBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2197969,
+          28.6331482
+        ]
+      },
+      "id": "node/6203987737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6203988024",
+        "level": "0",
+        "name": "Smokehouse Deli",
+        "shop": "deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2210355,
+          28.6341676
+        ]
+      },
+      "id": "node/6203988024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6224339286",
+        "name": "Airtel",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2222145,
+          28.63129
+        ]
+      },
+      "id": "node/6224339286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6225478958",
+        "brand": "Bata",
+        "brand:wikidata": "Q688082",
+        "brand:wikipedia": "en:Bata (company)",
+        "name": "Bata",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2173996,
+          28.6304619
+        ]
+      },
+      "id": "node/6225478958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6225479102",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2084283,
+          28.6278904
+        ]
+      },
+      "id": "node/6225479102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6225482608",
+        "amenity": "bar",
+        "level": "1",
+        "name": "Lord of the Drinks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2168493,
+          28.6318266
+        ]
+      },
+      "id": "node/6225482608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6278067685",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2205433,
+          28.6348216
+        ]
+      },
+      "id": "node/6278067685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6278067985",
+        "amenity": "restaurant",
+        "cuisine": "rajasthani",
+        "level": "0",
+        "name": "Rajasthali",
+        "opening_hours": "Mo-Su 12:00-16:00 \"lunch\", 19:00-23:00 \"dinner\"",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2203803,
+          28.6347294
+        ]
+      },
+      "id": "node/6278067985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6278105486",
+        "amenity": "atm",
+        "operator": "Oriental Bank Of Commerce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2220034,
+          28.632874
+        ]
+      },
+      "id": "node/6278105486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6278106187",
+        "amenity": "restaurant",
+        "name": "Hotmess"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2223125,
+          28.6325274
+        ]
+      },
+      "id": "node/6278106187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6278106189",
+        "amenity": "toilets",
+        "operator": "NDMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2219529,
+          28.6317079
+        ]
+      },
+      "id": "node/6278106189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6278725085",
+        "amenity": "atm",
+        "operator": "ICICI Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.215302,
+          28.6412994
+        ]
+      },
+      "id": "node/6278725085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6319999285",
+        "name": "Open Hand Laundry",
+        "shop": "laundry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2119767,
+          28.6406118
+        ]
+      },
+      "id": "node/6319999285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6328795085",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Bagundi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.22247,
+          28.6317221
+        ]
+      },
+      "id": "node/6328795085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6331451485",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2213949,
+          28.6320386
+        ]
+      },
+      "id": "node/6331451485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6369776586",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "German Bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.211775,
+          28.6407442
+        ]
+      },
+      "id": "node/6369776586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6371937737",
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "opening_hours": "Mo-Su 04:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2231872,
+          28.6327737
+        ]
+      },
+      "id": "node/6371937737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6371968794",
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "opening_hours": "Mo-Su 04:00-22:00",
+        "operator": "NDMC",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2218514,
+          28.6319359
+        ]
+      },
+      "id": "node/6371968794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6387937086",
+        "name": "Airtel",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2106965,
+          28.6411646
+        ]
+      },
+      "id": "node/6387937086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6404118986",
+        "addr:housenumber": "N-21",
+        "email": "amritbookco@hotmail.com",
+        "name": "Amit Book Company",
+        "phone": "01123317331",
+        "shop": "books"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2208237,
+          28.6304392
+        ]
+      },
+      "id": "node/6404118986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6408253201",
+        "level": "0",
+        "name": "The Raymond Shop",
+        "operator": "Raymond",
+        "shop": "fabric",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2214809,
+          28.6326411
+        ]
+      },
+      "id": "node/6408253201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6408253202",
+        "level": "0",
+        "name": "Dass Studios",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2206423,
+          28.6313946
+        ]
+      },
+      "id": "node/6408253202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6414427985",
+        "addr:city": "Delhi",
+        "addr:country": "IN",
+        "addr:housenumber": "E-8",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "addr:street": "Rajiv Chowk, Block E",
+        "name": "Wills Lifestyle",
+        "shop": "clothes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2213849,
+          28.6332082
+        ]
+      },
+      "id": "node/6414427985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6414427986",
+        "addr:city": "Delhi",
+        "addr:country": "IN",
+        "addr:housenumber": "E-4",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "addr:street": "Rajiv Chowk, Block E",
+        "name": "Tanishq Jewellery",
+        "opening_hours": "11:00-20:00",
+        "shop": "jewelry",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2214144,
+          28.6331141
+        ]
+      },
+      "id": "node/6414427986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6447831887",
+        "name:ja": "おいしいマンゴーシェイク",
+        "shop": "beverages"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2129569,
+          28.6392718
+        ]
+      },
+      "id": "node/6447831887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6449562257",
+        "name": "Partap Florist",
+        "phone": "+91-2332-2047;+91-2373-8280",
+        "shop": "florist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2192662,
+          28.6284399
+        ]
+      },
+      "id": "node/6449562257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495330846",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "addr:unit": "20",
+        "brand": "Nike",
+        "brand:wikidata": "Q483915",
+        "brand:wikipedia": "en:Nike, Inc.",
+        "level": "0",
+        "name": "Nike",
+        "operator": "BDA Co.",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2188291,
+          28.6341575
+        ]
+      },
+      "id": "node/6495330846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495330849",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "level": "0",
+        "name": "Woodland",
+        "operator": "Aero Club",
+        "shop": "shoes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2194967,
+          28.634329
+        ]
+      },
+      "id": "node/6495330849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495330851",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "addr:unit": "11",
+        "level": "0",
+        "name": "Jockey",
+        "operator": "R. Meattle & Sons",
+        "phone": "+91-11-2332-7699;+91-11-4354-6949",
+        "shop": "clothes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2184047,
+          28.6338282
+        ]
+      },
+      "id": "node/6495330851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495330854",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "clothes": "women",
+        "name": "And",
+        "shop": "clothes",
+        "toilets:wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2195265,
+          28.6346887
+        ]
+      },
+      "id": "node/6495330854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495330856",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "level": "0",
+        "name": "Sports Station",
+        "shop": "shoes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2192854,
+          28.6343018
+        ]
+      },
+      "id": "node/6495330856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495330862",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "brand": "Skechers",
+        "brand:wikidata": "Q2945643",
+        "brand:wikipedia": "en:Skechers",
+        "level": "0",
+        "name": "Skechers",
+        "shop": "shoes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2184488,
+          28.633867
+        ]
+      },
+      "id": "node/6495330862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495330863",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "clothes": "traditional;women",
+        "level": "0",
+        "name": "W",
+        "operator": "Karwa Retail Private Limited",
+        "shop": "clothes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.219527,
+          28.634655
+        ]
+      },
+      "id": "node/6495330863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495330864",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "level": "0",
+        "name": "Planet Fashion",
+        "shop": "clothes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2194193,
+          28.6343219
+        ]
+      },
+      "id": "node/6495330864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495330865",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "amenity": "atm",
+        "brand": "Bank of Maharashtra",
+        "level": "0",
+        "opening_hours": "24/7",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2195627,
+          28.6345005
+        ]
+      },
+      "id": "node/6495330865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495330867",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "clothes": "women",
+        "name": "Aurelia",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2195598,
+          28.634418
+        ]
+      },
+      "id": "node/6495330867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495330870",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "name": "Lotto",
+        "shop": "shoes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2195608,
+          28.6344614
+        ]
+      },
+      "id": "node/6495330870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495330871",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "level": "0",
+        "name": "Shaw Sons",
+        "phone": "+91-11-4661-3076;+91-11-98118-07108;+91-98712-17682",
+        "shop": "handicraft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2186929,
+          28.6340502
+        ]
+      },
+      "id": "node/6495330871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495330874",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "name": "Indian Terrain",
+        "shop": "clothes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2195417,
+          28.634342
+        ]
+      },
+      "id": "node/6495330874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495330876",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "alcohol": "yes",
+        "amenity": "restaurant",
+        "level": "0",
+        "name": "Zen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2192258,
+          28.6342867
+        ]
+      },
+      "id": "node/6495330876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495330877",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "level": "0",
+        "name": "US Polo Association",
+        "shop": "clothes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2184265,
+          28.6338487
+        ]
+      },
+      "id": "node/6495330877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495330878",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "level": "0",
+        "name": "Bhagwan Das Brothers",
+        "shop": "bag",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2190214,
+          28.6342471
+        ]
+      },
+      "id": "node/6495330878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495330880",
+        "addr:housename": "B",
+        "addr:housenumber": "B-16",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "level": "0",
+        "name": "Wildcraft",
+        "operator": "RB Sons",
+        "shop": "clothes;bag;shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2186638,
+          28.6340257
+        ]
+      },
+      "id": "node/6495330880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495346838",
+        "addr:housename": "B",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "amenity": "restaurant",
+        "level": "1",
+        "name": "The Big Chill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2190663,
+          28.6342817
+        ]
+      },
+      "id": "node/6495346838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6507308684",
+        "amenity": "atm",
+        "brand": "Punjab National Bank",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2052725,
+          28.6413146
+        ]
+      },
+      "id": "node/6507308684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6510757085",
+        "name:he": "שוק עם פאפאדם חטיפים סויה",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2116987,
+          28.640169
+        ]
+      },
+      "id": "node/6510757085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6512337585",
+        "name:he": "אוכלנרחוב אורז תבשילים",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2177296,
+          28.6430359
+        ]
+      },
+      "id": "node/6512337585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6539240959",
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "male": "yes",
+        "opening_hours": "Mo-Su 06:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2188023,
+          28.6265092
+        ]
+      },
+      "id": "node/6539240959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6539240960",
+        "amenity": "toilets",
+        "fee": "yes",
+        "female": "yes",
+        "level": "-1",
+        "male": "yes",
+        "operator": "Sulabh International Social Service Organization"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2190859,
+          28.6248542
+        ]
+      },
+      "id": "node/6539240960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6539240961",
+        "amenity": "atm",
+        "brand": "State Bank of India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2193721,
+          28.6248081
+        ]
+      },
+      "id": "node/6539240961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6563068182",
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2071519,
+          28.626386
+        ]
+      },
+      "id": "node/6563068182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6563073807",
+        "access": "yes",
+        "amenity": "toilets",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2064069,
+          28.6283492
+        ]
+      },
+      "id": "node/6563073807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6566966468",
+        "addr:city": "New Delhi",
+        "addr:housenumber": "B-49",
+        "addr:postcode": "110001",
+        "addr:street": "Connaught Circus (Indira Chowk), Connaught Place",
+        "amenity": "restaurant",
+        "name": "Life Cafe",
+        "name:bn": "লাইফ ক্যাফে"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2182711,
+          28.6343601
+        ]
+      },
+      "id": "node/6566966468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6578719285",
+        "amenity": "bar",
+        "name": "Beer Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2195742,
+          28.6291732
+        ]
+      },
+      "id": "node/6578719285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6657141286",
+        "amenity": "restaurant",
+        "internet_access": "wlan",
+        "name": "Bistrot 55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2136434,
+          28.6409128
+        ]
+      },
+      "id": "node/6657141286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6676143713",
+        "amenity": "restaurant",
+        "cuisine": "indian;pizza",
+        "internet_access": "no",
+        "name": "The Art House Cafe",
+        "toilets": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2212797,
+          28.6305595
+        ]
+      },
+      "id": "node/6676143713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6676417797",
+        "amenity": "atm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.222185,
+          28.6307089
+        ]
+      },
+      "id": "node/6676417797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6707994776",
+        "addr:housenumber": "C-42/2",
+        "addr:place": "Connaught Place",
+        "addr:postcode": "110001",
+        "addr:street": "Middle Circle",
+        "amenity": "restaurant",
+        "cuisine": "shake;ice_cream;italian;salad;noodles;pizza;pasta",
+        "diet:vegetarian": "only",
+        "drink:shake": "yes",
+        "email": "info@shakesquare.in",
+        "level": "0;1",
+        "name": "Shake Square",
+        "seats": "23",
+        "smoking": "no",
+        "website": "http://www.shakesquare.co.in",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2205246,
+          28.634703
+        ]
+      },
+      "id": "node/6707994776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6796761496",
+        "name": "International Tourist Tickets",
+        "name:en": "International Tourist Bureau. Tickets for Non Indians. Platform 1, First Floor.",
+        "shop": "ticket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2192837,
+          28.643148
+        ]
+      },
+      "id": "node/6796761496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6832945792",
+        "amenity": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2189634,
+          28.6357869
+        ]
+      },
+      "id": "node/6832945792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6846243985",
+        "amenity": "toilets",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2113562,
+          28.6406954
+        ]
+      },
+      "id": "node/6846243985"
+    }
+  ]
+}
